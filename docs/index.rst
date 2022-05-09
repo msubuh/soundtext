@@ -74,3 +74,4 @@ Contents
    style-guide
    nada-dering/index
    anime/index
+   iphone/index
