@@ -57,13 +57,33 @@ Setelah selesai membuat sound of text dengan cara diatas, kamu bisa mengaplikasi
 6. Kamu bisa memilih nada dering dengan mengklik pilih dari file lalu klik nada dering yang pernah di download.
 7. Jadi cara membuat sound of text notifikasi WA lucu dapat dilakukan dengan cara instan atau melalui kata-kata sendiri. Selanjutnya sound of text yang telah diunduh dapat digunakan di notifikasi Whatsapp baik untuk pesan atau yang lainnya.
 
+Cara Pasang Nada Dering Telepon di WhatsApp (Voice Call WA)
+----------------------
+
+Selanjutnya setelah nada dering telepon tersebut sudah di download dan tersimpan di file manager, kamu bisa menjadikannya sebagai nada dering WA. Adapun langkah-langkahnya seperti berikut:
+
+- Pertama buka aplikasi File Manager atau My Files di android kamu
+- Kemudian pilih penyimpanan internal
+- Lalu pilih folders ringtone dan buka MP3 suara kucing yang tadi di download
+- Selanjutnya kamu pindahkan file nada dering MP3 tersebut  ke dalam  Ringtones tersebut.
+- Setelah menjadi nada dering WA, selanjutnya untuk menggunakannya, kamu bisa ikuti langkah berikut:
+- Buka aplikasi WhatsApp
+- Lalu klik titik tiga yang ada di pojok kanan atas.
+- Kemudian pilih menu pengaturan/setelan/setting. 
+- Selanjutnya klik Notifikasi scroll ke bawah hingga ke nada dering panggilan/telepon
+- Pilih MP3 suara kucing untuk menjadikannya nada dering telepon WA.
+
+Nah, itulah tadi berbagai pilihan nada dering telepon yang lucu, unik dan keren lengkap dengan cara downloadnya dari YouTube dengan menggunakan Ytmp3. Kamu juga bisa ikuti langkah-langkah diatas untuk menjadikannya nada dering telepon WA. Semoga bermanfaat.
+
+
 Resources: 
 -----------------
-- `nada dering wa suara google <https://whitepaper.co.id/cara-nada-dering-wa-suara-google/>`_
-- `sound of text <https://www.sebuahutas.com/2021/04/cara-pakai-sound-of-text-untuk-whatsapp.html>`_
-- `sound of text jawa <https://www.technolati.com/2022/04/3-sound-of-text-jawa-di-wa-menggunakan.html>`_
+- `nada dering wa suara google <https://www.teknotuf.com/cara-nada-dering-wa-suara-google/>`_
+- `sound of text <https://www.voiceoftext.com>`_
+- `sound of text jawa <https://www.autobild.co.id/2022/07/sound-of-text-wa-lucu-bahasa-indonesia.html>`_
 - `cara membuat suara google <https://www.technolati.com/2022/02/cara-bikin-suara-google-di-whatsapp.html>`_
 - `nada dering sound of text sebut nama <https://www.autobild.co.id/2022/04/cara-nada-dering-wa-sebut-nama-dan.html>`_
+- `sound text wa <https://www.stiead.ac.id/sound-text-wa/>`_ 
 
 Contents
 -----------------
