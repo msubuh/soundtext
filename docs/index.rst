@@ -60,13 +60,15 @@ Setelah selesai membuat sound of text dengan cara diatas, kamu bisa mengaplikasi
 Cara Pasang Nada Dering Telepon di WhatsApp (Voice Call WA)
 ----------------------
 
-Selanjutnya setelah nada dering telepon tersebut sudah di download dan tersimpan di file manager, kamu bisa menjadikannya sebagai nada dering WA. Adapun langkah-langkahnya seperti berikut:
+Selanjutnya setelah nada dering telepon dari sound of text sudah didownload dan tersimpan di file manager, kamu bisa menjadikannya sebagai nada panggilan WA. Adapun langkah-langkahnya seperti berikut:
 
 - Pertama buka aplikasi File Manager atau My Files di android kamu
 - Kemudian pilih penyimpanan internal
 - Lalu pilih folders ringtone dan buka MP3 suara kucing yang tadi di download
-- Selanjutnya kamu pindahkan file nada dering MP3 tersebut  ke dalam  Ringtones tersebut.
-- Setelah menjadi nada dering WA, selanjutnya untuk menggunakannya, kamu bisa ikuti langkah berikut:
+- Selanjutnya kamu pindahkan file nada dering sound of text MP3 tersebut  ke dalam  Ringtones tersebut.
+
+Setelah menjadi nada dering WA, selanjutnya untuk menggunakannya, kamu bisa ikuti langkah berikut:
+
 - Buka aplikasi WhatsApp
 - Lalu klik titik tiga yang ada di pojok kanan atas.
 - Kemudian pilih menu pengaturan/setelan/setting. 
@@ -84,6 +86,7 @@ Resources:
 - `cara membuat suara google <https://www.technolati.com/2022/02/cara-bikin-suara-google-di-whatsapp.html>`_
 - `nada dering sound of text sebut nama <https://www.autobild.co.id/2022/04/cara-nada-dering-wa-sebut-nama-dan.html>`_
 - `sound text wa <https://www.stiead.ac.id/sound-text-wa/>`_ 
+- `sound of text mp3 <https://www.giftcard.co.id/sound-of-text-wa/>`_
 
 Contents
 -----------------
