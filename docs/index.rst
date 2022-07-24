@@ -98,3 +98,4 @@ Contents
    nada-dering/index
    anime/index
    iphone/index
+   notifikasi-wa/index
